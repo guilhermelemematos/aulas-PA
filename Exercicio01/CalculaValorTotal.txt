@@ -1,0 +1,12 @@
+Algoritimo ValorPeça
+	entre com o valor da peça
+	entre com a quantidade de peças
+	faça VT = quantidade de peça * valor de peça
+	Exiba VT
+FimAlgoritimo
+
+
+Teste de mesa
+VP	QP	VT
+100	5	500
+250	4	1000
