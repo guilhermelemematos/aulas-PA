@@ -1,0 +1,16 @@
+Algoritimo CalculaMedia
+	Entre com um valor para p1
+	entre com um valor pra p2
+	faça media = (p1 + p2) / 2
+	exiba media
+FimAlgoritimo
+
+
+
+
+Teste de Mesa
+p1	p2	media
+
+6	8	7
+
+5	7	6
