@@ -1,0 +1,13 @@
+CalculaQuadrado
+	atribua um valor para n1
+	atribua um valor para n2
+	atribua um valor para n3
+	atribua um valor para n4
+	faça n1*n1 + n2*n2 + n3*n3 + n4*n4 e atribua o valor para resultado
+	mostre resultado
+FimAlgoritimo
+
+Teste de mesa 
+n1	n2	n3	n4	resultado
+2	5	1	3	39
+7	5	8	2	142

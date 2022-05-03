@@ -1,0 +1,13 @@
+CalculaComissão
+	atribua um valor para preço
+	atribua um valor para quantidade
+	faça preço * quantidade e atribua para resultado
+	faça resultado * 0,05 e atribua para comissao
+	mostre resultado e comissao
+FimAlgortitimo
+
+
+Teste de Mesa
+preço	quantidade	resultado	comissao
+500	3		1500		75
+50	100		5000		250
