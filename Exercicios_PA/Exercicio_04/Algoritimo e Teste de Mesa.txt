@@ -1,0 +1,12 @@
+ValorConseumidor
+	Atribua o valor do carro para carro
+	faça carro*0,45 + carro e atribua para imposto
+	faça imposto*0,28 + imposto e atribua para consumidor
+	mostre consumidor
+FimALgoritimo
+
+
+Teste de Mesa
+carro		imposto		consumidor
+25000		36.250		46.400
+50000		72.500		92.800
