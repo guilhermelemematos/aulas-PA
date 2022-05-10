@@ -1,0 +1,12 @@
+MinutosEmHoras
+	estabeleça um valor para horas
+	estabeleça um valor para minutos
+	faça minuto / 60 + horas e atriua para horario
+	mostre horario 
+FimAlgoritimo
+
+
+Teste de Mesa
+3h40 = 3,67
+
+1h32 = 1,52

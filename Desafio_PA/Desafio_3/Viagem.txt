@@ -1,0 +1,12 @@
+Gasolina
+	atribua um valor para percorrer
+	atribua um valor para carro
+	atribua um valor para gasolina
+	faça percorrer / carro * gasolina atribua para viajem 
+	faça viagem * 2 e atribua para volta
+	moste viegem e volta
+FimAlgoritimo 
+
+Teste de Mesa
+percorrer	carro		gasolina	viajem		volta
+450km		10km		4,50		202,00		404,00

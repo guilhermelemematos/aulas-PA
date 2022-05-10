@@ -1,0 +1,16 @@
+Pagamento
+	atribua um valor a horas
+	atribua um valor a minutos
+	atribua um valor a reais
+	faça minutos / 60 + horas e atribua para horario
+	faça horario * reais atribua para pagamento
+	faça reais * 1,70 e atribua para salario
+	mostre salario 
+FimAlgoritimo
+
+
+Teste de Mesa
+15h45		R$25		669,37
+20h		R$25		850,00	
+
+	

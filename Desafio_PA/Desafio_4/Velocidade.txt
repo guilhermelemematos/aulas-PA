@@ -1,0 +1,13 @@
+Algoritimo Velocidade
+	atribua um valor para percurso
+	atribua um valor para hora
+	atribua um valor para minutos
+	faça minutos / 60 + hora e atribua para tempo
+	faça percurso / tempo e atribua para velocidade 
+	mostre velocidade
+FimAlgoritimo
+
+Teste de Mesa
+percurso	hora	minutos		tempo		velocidade
+150		1	13		1,22		122km 
+	
