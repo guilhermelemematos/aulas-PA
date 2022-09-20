@@ -1,0 +1,19 @@
+algoritmo "semnome"
+// Função :
+// Autor :
+// Data : 20/09/2022
+// Seção de Declarações 
+var
+numero,c1,c2: inteiro
+inicio
+// Seção de Comandos
+escreval("Escreva um numero")
+leia(numero)
+
+para c1 de 1 ate numero faca
+     para c2 de 1 ate numero faca
+          escreva("*")
+     fimpara
+     escreval()
+fimpara
+fimalgoritmo
