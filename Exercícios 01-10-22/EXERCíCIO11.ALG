@@ -1,8 +1,8 @@
-Algoritmo "Exercício11"
-// Disciplina   : [Linguagem e Lógica de Programação]
+Algoritmo "ExercÃ­cio11"
+// Disciplina   : [Linguagem e LÃ³gica de ProgramaÃ§Ã£o]
 // Professor   : Anderson Vanin
-// Descrição   : Aqui você descreve o que o programa faz! (função)
-// Autor(a)    : Ana Clara M.
+// DescriÃ§Ã£o   : Aqui vocÃª descreve o que o programa faz! (funÃ§Ã£o)
+// Autor(a)    : Guilherme
 // Data atual  : 08/11/2022
 Var
 matrix:vetor[0..4,0..4] de inteiro
@@ -23,6 +23,6 @@ para linha de 0 ate 4 faca
      fimpara
 fimpara
 
-escreval("O resultado da soma dos valores na diagonal é igual a: ",soma)
+escreval("O resultado da soma dos valores na diagonal Ã© igual a: ",soma)
 
 Fimalgoritmo
