@@ -1,8 +1,8 @@
-Algoritmo "Exercício09"
-// Disciplina   : [Linguagem e Lógica de Programação]
+Algoritmo "ExercÃ­cio09"
+// Disciplina   : [Linguagem e LÃ³gica de ProgramaÃ§Ã£o]
 // Professor   : Anderson Vanin
-// Descrição   : Aqui você descreve o que o programa faz! (função)
-// Autor(a)    : Ana Clara M.
+// DescriÃ§Ã£o   : Aqui vocÃª descreve o que o programa faz! (funÃ§Ã£o)
+// Autor(a)    : Guilherme
 // Data atual  : 08/11/2022
 Var
 matrix:vetor[0..2,0..2] de inteiro
@@ -13,7 +13,7 @@ Inicio
 
 para linha de 0 ate 2 faca
      para coluna de 0 ate 2 faca
-          escreval("Digite um número para introduzir na matriz")
+          escreval("Digite um nÃºmero para introduzir na matriz")
           leia(matrix[linha,coluna])
      fimpara
 fimpara
