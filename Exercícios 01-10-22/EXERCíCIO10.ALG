@@ -1,8 +1,8 @@
-Algoritmo "Exercício10"
-// Disciplina   : [Linguagem e Lógica de Programação]
+Algoritmo "ExercÃ­cio10"
+// Disciplina   : [Linguagem e LÃ³gica de ProgramaÃ§Ã£o]
 // Professor   : Anderson Vanin
-// Descrição   : Aqui você descreve o que o programa faz! (função)
-// Autor(a)    : Ana Clara M.
+// DescriÃ§Ã£o   : Aqui vocÃª descreve o que o programa faz! (funÃ§Ã£o)
+// Autor(a)    : Guilherme
 // Data atual  : 08/11/2022
 Var
 matrixum:vetor[0..1,0..4] de inteiro
@@ -56,7 +56,7 @@ fimpara
 
 
 
-escreval("Matriz Três")
+escreval("Matriz TrÃªs")
 
 para linha de 0 ate 1 faca
      para coluna de 0 ate 4 faca
