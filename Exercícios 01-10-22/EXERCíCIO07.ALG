@@ -1,8 +1,8 @@
-Algoritmo "Exercício07"
-// Disciplina   : [Linguagem e Lógica de Programação]
+Algoritmo "ExercÃ­cio07"
+// Disciplina   : [Linguagem e LÃ³gica de ProgramaÃ§Ã£o]
 // Professor   : Anderson Vanin
-// Descrição   : Aqui você descreve o que o programa faz! (função)
-// Autor(a)    : Ana Clara M.
+// DescriÃ§Ã£o   : Aqui vocÃª descreve o que o programa faz! (funÃ§Ã£o)
+// Autor(a)    : Guilherme
 // Data atual  : 08/11/2022
 Var
 matrix:vetor[0..4,0..1] de inteiro
@@ -26,6 +26,6 @@ fimpara
 
 media <- soma / 25
 
-escreval("A média dos números que pertencem a matriz é igual a:",media)
+escreval("A mÃ©dia dos nÃºmeros que pertencem a matriz Ã© igual a:",media)
 
 Fimalgoritmo
