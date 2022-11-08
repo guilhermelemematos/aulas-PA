@@ -1,8 +1,8 @@
-Algoritmo "Exercício08"
-// Disciplina   : [Linguagem e Lógica de Programação]
+Algoritmo "ExercÃ­cio08"
+// Disciplina   : [Linguagem e LÃ³gica de ProgramaÃ§Ã£o]
 // Professor   : Anderson Vanin
-// Descrição   : Aqui você descreve o que o programa faz! (função)
-// Autor(a)    : Ana Clara M.
+// DescriÃ§Ã£o   : Aqui vocÃª descreve o que o programa faz! (funÃ§Ã£o)
+// Autor(a)    : Guilherme
 // Data atual  : 08/11/2022
 Var
 matrix:vetor[0..5,0..2] de inteiro
@@ -32,6 +32,6 @@ para linha de 0 ate 5 faca
      fimpara
 fimpara
 
-escreval("O maior valor é",maior)
-escreval("O menor valor é",menor)
+escreval("O maior valor Ã©",maior)
+escreval("O menor valor Ã©",menor)
 Fimalgoritmo
